@@ -1,4 +1,4 @@
-# 💪 AI Fitness App (Frontend)
+# 💪 Fit-AI  (Frontend)
 
 A modern frontend implementation of an AI-powered fitness platform that acts like a **personal trainer that never forgets you**.
 

@@ -86,6 +86,18 @@ Remember to add screenshots here
 
 ## 📬 Contact
 
+If you're interested in working together or have opportunities available, feel free to reach out:
+
+* **Email:** joshuaochiba@gmail.com
+* **LinkedIn:** www.linkedin.com/in/joshua-ochiba
+* **GitHub:** https://github.com/Joshua-Ochiba
+
+Or view my other projects:
+**Portfolio:** https://joshua-ochiba.netlify.app/)
+
+Looking forward to connecting!
+
+
 Feel free to reach out or connect!
 
 ---

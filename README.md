@@ -2,7 +2,7 @@
 
 A modern frontend implementation of an AI-powered fitness platform that acts like a **personal trainer that never forgets you**.
 
-This application allows users to track workouts, get personalized guidance, and visualize their fitness progress over time — all through a clean and responsive user interface.
+This application allows users to track workouts, get personalized guidance, and visualize their fitness progress over time, all through a clean and responsive user interface.
 
 ---
 
@@ -53,9 +53,9 @@ Worked as a **Frontend Developer**, responsible for:
 
 
 * React 
- React Native
+* React Native
 * Tailwind CSS 
-*  TypeScript
+* TypeScript
 * API Integration
 
 ---

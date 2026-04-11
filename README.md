@@ -93,7 +93,8 @@ If you're interested in working together or have opportunities available, feel f
 * **GitHub:** https://github.com/Joshua-Ochiba
 
 Or view my other projects:
-**Portfolio:** https://joshua-ochiba.netlify.app/)
+
+* **Portfolio:** https://joshua-ochiba.netlify.app/)
 
 Looking forward to connecting!
 

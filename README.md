@@ -68,11 +68,7 @@ Sensitive or proprietary logic has been removed or simplified.
 ---
 
 ## 📷 Screenshots
-
-
-
-## 📷 Screenshots
-
+### 📱 Mobile App
 <p align="center">
   <img width="250"  alt="image" src="https://github.com/user-attachments/assets/bae795cb-261f-4772-b62c-24c06b365300" />
   <img width="250"  alt="image" src="https://github.com/user-attachments/assets/264c27e6-2f07-4afc-8e1b-c341b6f30aa6" />
@@ -81,6 +77,21 @@ Sensitive or proprietary logic has been removed or simplified.
   <img width="250"  alt="image" src="https://github.com/user-attachments/assets/eaa71edd-033e-49a9-bdde-2cda4dc3e1e3" />
 </p>
 
+
+### 🛠️ Admin Dashboard
+<p align="center">
+  <img width="250" height="911" alt="image" src="https://github.com/user-attachments/assets/812f1a2c-ca70-4e74-ba42-8c8972e2cf03" />
+  <img width="250" height="932" alt="image" src="https://github.com/user-attachments/assets/4344fdc5-f0d9-4f76-a5c6-7c5d073272fa" />
+  <img width="250" height="925" alt="image" src="https://github.com/user-attachments/assets/a36eeaf0-332e-4133-aa70-5f9a26a61ba0" />
+</p>
+
+
+### 🌐 Public Web Based Chatbot
+<p align="center">
+  <img width="250" height="911" alt="image" src="https://github.com/user-attachments/assets/c67d7f69-8e71-4403-8494-95cc12cf8895" />
+  <img width="250" height="932" alt="image" src="https://github.com/user-attachments/assets/648cfc0c-fbf4-45d9-a5b1-781db4b40838"  />
+
+</p>
 ---
 
 ## ⚡ Future Improvements

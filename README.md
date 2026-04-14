@@ -1,4 +1,4 @@
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/b98e10af-e586-4552-a920-6121d9d7e7dd" /># 💪 Fit-AI  (Frontend)
+# 💪 Fit-AI  (Frontend)
 
 A modern frontend implementation of an AI-powered fitness platform that acts like a **personal trainer that never forgets you**.
 
@@ -69,13 +69,17 @@ Sensitive or proprietary logic has been removed or simplified.
 
 ## 📷 Screenshots
 
-*<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/bae795cb-261f-4772-b62c-24c06b365300" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/264c27e6-2f07-4afc-8e1b-c341b6f30aa6" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/543716ad-3ada-48d5-aefb-4da31ba2f94b" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/de5dddbe-f01e-47e9-bab6-893b413c0bb1" />
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/eaa71edd-033e-49a9-bdde-2cda4dc3e1e3" />
 
-*
+
+## 📷 Screenshots
+
+<p align="center">
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/bae795cb-261f-4772-b62c-24c06b365300" />
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/264c27e6-2f07-4afc-8e1b-c341b6f30aa6" />
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/543716ad-3ada-48d5-aefb-4da31ba2f94b" />
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/de5dddbe-f01e-47e9-bab6-893b413c0bb1" />
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/eaa71edd-033e-49a9-bdde-2cda4dc3e1e3" />
+</p>
 
 ---
 
